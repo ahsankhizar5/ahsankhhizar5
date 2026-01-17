@@ -89,10 +89,6 @@ const ahsankhizar = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsankhizar5&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsankhizar5&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -127,14 +123,6 @@ const ahsankhizar = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -158,8 +146,6 @@ const ahsankhizar = {
 ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ### ⭐ Show some ❤️ by starring some repositories!
-
-![](https://hit.yhype.me/github/profile?user_id=ahsankhizar5)
 
 </div>
 
