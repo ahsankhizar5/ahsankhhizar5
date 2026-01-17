@@ -113,16 +113,13 @@ Complete series of web projects including:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahsankhizar5)
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahsankhizar5&theme=radical&hide_border=true)](https://github.com/ahsankhizar5)
 
-<img src="https://streak-stats.demolab.com/?user=ahsankhizar5&theme=radical&hide_border=true" alt="GitHub Streak" />
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/ahsankhizar5)
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ahsankhizar5)
 
 </div>
 
